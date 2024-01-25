@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: fr
 title: Lara Hörler - LabVeilTech
-theme : montheme
+theme : theme
 
 params:
   homeInfoParams:
