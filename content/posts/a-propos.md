@@ -1,5 +1,5 @@
 ---
-title: "A propos"
+title: "0 - A propos"
 params:
 showBreadCrumbs: true
 showReadingTime: true
@@ -21,3 +21,5 @@ Cette approche m'autorise à plonger profondément dans les tendances émergente
 Pour donner vie à ce site, j'ai opté pour Hugo comme générateur de site statique. Ce choix repose sur plusieurs avantages clés. Tout d'abord, Hugo brille par sa rapidité exceptionnelle. Il génère des pages HTML statiques qui se chargent à une vitesse éclair, offrant une expérience utilisateur optimale.
 
 De plus, Hugo est reconnu pour sa simplicité et sa flexibilité. Il me permet de structurer le contenu de manière efficace tout en minimisant les ressources nécessaires. Ainsi, je peux me concentrer pleinement sur la création de contenu de qualité, sans les tracas liés à la gestion d'une infrastructure complexe.
+
+En fin de compte, j'ai choisi un thème qui rappelle la structure des articles Notion que j'utilise pour prendre des notes. Ce thème offre également la possibilité de créer un environnement où mes lecteurs peuvent naviguer aisément entre les articles, garantissant ainsi une expérience de lecture fluide et plaisante.

@@ -1,5 +1,5 @@
 ---
-title: "Article 2"
+title: "3 - Threads : Les avantages pour les créateurs de contenu web et les marques"
 params:
 showBreadCrumbs: true
 showReadingTime: true
